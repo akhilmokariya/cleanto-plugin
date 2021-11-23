@@ -1,0 +1,4 @@
+[27-Oct-2021 09:57:17 America/Boise] PHP Fatal error:  Uncaught Error: Class 'cleanto_myvariable' not found in /home4/mdwlegmy/public_html/rmcleaningservices/cleanto/index.php:50
+Stack trace:
+#0 {main}
+  thrown in /home4/mdwlegmy/public_html/rmcleaningservices/cleanto/index.php on line 50

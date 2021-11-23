@@ -1,0 +1,4 @@
+[19-Nov-2021 06:11:59 America/Boise] PHP Warning:  unlink(/home4/mdwlegmy/public_html/rmcleaningservices/cleanto/assets/images/services/.): Is a directory in /home4/mdwlegmy/public_html/rmcleaningservices/cleanto/assets/lib/service_ajax.php on line 182
+[19-Nov-2021 06:12:22 America/Boise] PHP Warning:  unlink(/home4/mdwlegmy/public_html/rmcleaningservices/cleanto/assets/images/services/.): Is a directory in /home4/mdwlegmy/public_html/rmcleaningservices/cleanto/assets/lib/service_ajax.php on line 182
+[19-Nov-2021 06:26:58 America/Boise] PHP Warning:  A non-numeric value encountered in /home4/mdwlegmy/public_html/rmcleaningservices/cleanto/assets/lib/service_addons_ajax.php on line 540
+[19-Nov-2021 06:26:58 America/Boise] PHP Warning:  A non-numeric value encountered in /home4/mdwlegmy/public_html/rmcleaningservices/cleanto/assets/lib/service_addons_ajax.php on line 540
